@@ -1,2 +1,2 @@
-# Workshops_24-25
-Workshop materials for the University of Southampton Artificial Intelligence Society.
+# Workshops-24-25
+Workshops materials for the University of Southampton Artificial Intelligence Society
